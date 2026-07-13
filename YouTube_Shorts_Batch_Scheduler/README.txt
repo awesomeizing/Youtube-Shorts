@@ -1,5 +1,8 @@
 YouTube Shorts Batch Auto Uploader (Updated)
 
+Important:
+Before starting anything, upload your API file into it (client_secret.json).
+
 CHANGES:
 - The application now uploads ALL files in the 'Videos_To_Upload' folder in a single run.
 - It no longer sleeps between uploads.
